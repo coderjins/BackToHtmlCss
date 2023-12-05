@@ -1,0 +1,26 @@
+.profile {
+  width: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name {
+  font-size: 52px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.front {
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.colorToRed {
+  color: red;
+}
+
+.profileContent {
+  letter-spacing: 2px;
+  text-align: center;
+}
